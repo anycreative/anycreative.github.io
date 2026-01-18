@@ -1,0 +1,12 @@
+title = "Any Creative &mdash; IT Consulting and Outsourcing in Singapore"
+copyright = "&copy; 2026 Any Creative Pte. Ltd."
+
+[params.author]
+name = "Any Creative"
+image = "img/anycreative.png"
+headline = "IT Consulting and Outsourcing in Singapore"
+links = [
+  { github = "https://github.com/anycreative" },
+  { linkedin = "https://www.linkedin.com/company/anycreative" },
+  { email = "mailto:box@anycreative.sg" }
+]
