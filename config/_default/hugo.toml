@@ -1,5 +1,1 @@
 baseURL = "https://anycreative.sg/"
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
